@@ -6,7 +6,7 @@
     "main": "censortext",
     "repository": {
         "type": "git",
-        "url": "http://github.com/srirambtechit/nodejs/blob/master/censorify"
+        "url": "https://github.com/srirambtechit/nodejs/tree/master/censorify"
     },
     "keywords": [ "censor", "words" ],
     "dependencies": {},
